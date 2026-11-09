@@ -10,5 +10,5 @@ I have also written two blog posts about TypeScript Generics and TypeScript Comp
 
 ## Blog Posts
 
-1. [TypeScript Generics and Async Promise](./typescript-generics-and-promises.md)
-2. [TypeScript Compilation and tsconfig.json](./typescript-compilation-and-tsconfig.md)
+1. [TypeScript Generics and Async Promise](./typescript_generics_and_promises.md)
+2. [TypeScript Compilation and tsconfig.json](./typescript_compilation_and_tsconfig.md)
